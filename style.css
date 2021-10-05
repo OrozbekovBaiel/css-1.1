@@ -1,0 +1,24 @@
+h1 {
+  color: rgb(6, 240, 84);
+  background-color: rgba(42, 116, 165, 50);
+}
+h2{
+  color: white;
+  background-color: black;
+}
+p{
+  color: rgb(0, 0, 0);
+}
+#example1{
+  color: green;
+}
+#example2{
+  color: rgb(255, 0, 43);
+}#example3{
+  color: rgb(217, 255, 0);
+}#example4{
+  color: rgb(255, 0, 0);
+}#example5{
+  color: rgb(0, 255, 13);
+}
+
